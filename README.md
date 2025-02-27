@@ -1,7 +1,6 @@
 ## My-first-bootstrap-Projects
-<p>I made this by following the Uditha Sanjaya YouTube channel "Landing Page එක මුල ඉදන් හදමු" </p>
-<p>  Using HTML Bootstrap/CSS & JavaScript playlist step by step.</p>
-
+<p>I made this by following the Uditha Sanjaya YouTube channel <b>"Landing Page එක මුල ඉදන් හදමු"</b> </p>
+<p>  Using HTML, Bootstrap/CSS & JavaScript </p>
 
 <P>
   Uditha Sanjaya channel link - https://youtube.com/@udithasanjaya?si=e0GnMFW7yfCd-0OW
